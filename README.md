@@ -26,7 +26,7 @@ Welcome to the Guessing Game, a simple yet engaging console-based game implement
 **Have Fun Guessing!**
 Feel free to fork, modify, and enhance the game as you see fit. Enjoy playing and happy coding!
 
-#----------------------------------------------------------------------------------------------------------------------------------#
+
 #----------------------------------------------------------------------------------------------------------------------------------#
 
 
@@ -55,8 +55,6 @@ Welcome to the Calculator Program, a versatile C++ console application designed 
 **Feel free to explore, modify, and enhance this calculator program according to your needs. Happy calculating!**
 
 
-
-#-----------------------------------------------------------------------------------------------------------------------------------#
 #-----------------------------------------------------------------------------------------------------------------------------------#
 
 
@@ -87,6 +85,6 @@ Welcome to the Tic Tac Toe Game, a classic two-player console application implem
 
 
 #----------------------------------------------------------------------------------------------------------------------------------#
-#----------------------------------------------------------------------------------------------------------------------------------#
+
 
 
